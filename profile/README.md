@@ -8,5 +8,5 @@ No [Unisec Labs](https://unisec.com.br), acreditamos em Open Source e Open Stand
 Temos muitos projetos, mas queremos destacar alguns, em uma ordem bem específica:
 
 * [ESP32](#), Um moderno controlador para nossas soluções de projetos embarcados.
-* [Home Assistant](#), uma plataforma aberta e combinável de 3automação e segurança.
+* [Home Assistant](#), uma plataforma aberta e combinável com automação e segurança.
 * [Wireguard](#), Solução de conectividade de nossos produtos.
