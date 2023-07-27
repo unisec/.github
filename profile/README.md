@@ -11,7 +11,7 @@ No [Unisec Labs](https://unisec.com.br), acreditamos em Open Source e Open Stand
 
 Temos muitos projetos, mas queremos destacar alguns, em uma ordem bem específica:
 
-* [ESP32](https://esphome.io), Um moderno controlador para nossas soluções de projetos embarcados.
-* [Esphome](https://esphome.io), É um sistema para controlar os ESP8266/ESP32 e RP2040 por meio de arquivos de configuração bem simples
-* [Home Assistant](https://https://www.home-assistant.io), uma plataforma aberta e combinável com automação e segurança.
-* [Wireguard](https://www.wireguard.com), Solução de conectividade de nossos produtos.
+* [ESP32](https://esphome.io) um moderno controlador para nossas soluções de projetos embarcados.
+* [Esphome](https://esphome.io) é um sistema para controlar os ESP8266/ESP32 e RP2040 por meio de arquivos de configuração bem simples
+* [Home Assistant](https://https://www.home-assistant.io) uma plataforma aberta e combinável com automação e segurança.
+* [Wireguard](https://www.wireguard.com) solução perfeita de conectividade de nossos produtos.
