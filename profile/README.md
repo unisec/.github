@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-unisec_tecnologia-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/company/unisec-tecnologia)](https://www.linkedin.com/company/unisec-tecnologia/) 
 [![Gmail Badge](https://img.shields.io/badge/-mailto:contato@unisec.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@unisec.com.br)](mailto:contato@unisec.com.br)  
 
-No [Unisec Labs](https://unisec.com.br), acreditamos em Open Source e Open Standards. A maior parte de nossos serviços vem de soluções de abertas da comunidade, você pode encontrá-los aqui. Todos os nossos clientes estão usando nossos produtos para a finalidade de obter mais conforto, segurança e inovação em suas vidas.
+No [Unisec Labs](https://unisec.com.br), acreditamos em Open Source e Open Standards. A maior parte de nossos serviços vem de soluções abertas da comunidade, você pode encontrá-los aqui. Todos os nossos clientes estão usando nossos produtos para a finalidade de obter mais conforto, segurança e inovação em suas vidas.
 
 ## LGTM
 
